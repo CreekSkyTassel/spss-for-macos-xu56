@@ -1,4 +1,4 @@
-
+Enhance SPSS for macOS with updated SPSS for macOS Workflow | 3D-plotting + custom-functions, the #1 workflow. Includes 3D-plotting and custom-functions for a smoother and more
 
 
 
